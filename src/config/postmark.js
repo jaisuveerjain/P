@@ -1,6 +1,6 @@
-var postmark = require('postmark');
+// File: config/postmark.ts
+import { ServerClient } from 'postmark';
 
-// Send an email:
-var client = new postmark.ServerClient(process.env.POSTMARK_SERVER_CLIENT);
+const client = new ServerClient(process.env.POSTMARK_API_TOKEN);
 
 export default client;

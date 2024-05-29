@@ -1,0 +1,12 @@
+{
+  "/favicon.ico/route": "app/favicon.ico/route.js",
+  "/page": "app/page.js",
+  "/api/contact/route": "app/api/contact/route.js",
+  "/apps/impulseux/page": "app/apps/impulseux/page.js",
+  "/apps/loteria-monarca/page": "app/apps/loteria-monarca/page.js",
+  "/apps/realtor-simplified/page": "app/apps/realtor-simplified/page.js",
+  "/apps/leenith-borges/page": "app/apps/leenith-borges/page.js",
+  "/apps/sierra-ecomaderas/page": "app/apps/sierra-ecomaderas/page.js",
+  "/apps/realtor-template-1/page": "app/apps/realtor-template-1/page.js",
+  "/leetcode/two-pointers/page": "app/leetcode/two-pointers/page.js"
+}
