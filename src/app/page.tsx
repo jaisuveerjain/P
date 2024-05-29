@@ -120,8 +120,8 @@ export default function Index() {
                 </span>{' '}
                 / &#8205; <AnimatedTitle/>
               </div>
-              <p className="max-w-3xl">25 year old software engineer currently residing in Germany, pursuing my Masters
-                in Data Science with 3 years of experience in Software Development and Delivery in different regions of
+              <p className="max-w-3xl">Software engineer currently residing in Germany, pursuing my Masters
+                in Data Analytics with 3 years of experience in Software Development and Delivery in different regions of
                 the
                 world.</p>
 
